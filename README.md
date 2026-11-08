@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stack:
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Public Hackathon Project
+### Public Hackathon Project
 [Mariner AI](https://github.com/JanBerglund/Since-AI-2026) — extracts measurable requirements from ship-specification PDFs, checks them against a searchable rule library, and reports pass/fail/needs-review results.
 
 ---
