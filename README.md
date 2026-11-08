@@ -6,6 +6,8 @@
   </a>
 </p>
 
+---
+
 ### 💻 Tech Stack:
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -17,8 +19,12 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
+---
+
 ### 🚀 Public Hackathon Project
 [Mariner AI](https://github.com/JanBerglund/Since-AI-2026) — extracts measurable requirements from ship-specification PDFs, checks them against a searchable rule library, and reports pass/fail/needs-review results.
+
+---
 
 ### 📈 GitHub Stats
 <p align="center">
