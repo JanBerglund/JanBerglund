@@ -2,8 +2,7 @@
 <h3 align="center">Student at Länsirannikon Koulutus Oy WinNova</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/topi-lepp%C3%A4nen-9a64752ab/" target="_blank](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Janberglund06@Gmail.com)">
-  </a>
+  <a href="https://www.linkedin.com/in/jan-berglund-206948447" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 ---
